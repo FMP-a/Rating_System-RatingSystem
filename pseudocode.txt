@@ -1,0 +1,7 @@
+1. getButtons
+2. add events to all of the Buttons
+
+event:  
+    1. select the pressed button
+    2. deselect all of the buttons
+    
